@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1510705769 source:c:\users\barthode\documents\courses\computer science\1350\linkedlist\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"linked_list.h"
+
+1510720370 source:c:\users\barthode\documents\courses\computer science\1350\linkedlist\linked_list_imp.cpp
+	<assert.h>
+	"linked_list.h"
+	"list_node.h"
+
+1510186103 c:\users\barthode\documents\courses\computer science\1350\linkedlist\linked_list.h
+	"list_node.h"
+
+1510186335 c:\users\barthode\documents\courses\computer science\1350\linkedlist\list_node.h
+	"element.h"
+
+1510186373 c:\users\barthode\documents\courses\computer science\1350\linkedlist\element.h
+	<string>
+
