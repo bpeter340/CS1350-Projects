@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1513223550 source:c:\users\barthode\documents\courses\computer science\1350\cj's thing\main.cpp
-	<iostream>
-	<fstream>
-	<cstdlib>
-	<ctime>
-
