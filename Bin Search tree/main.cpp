@@ -11,10 +11,7 @@ int main()
 {
     string a;
 
-    cout << "input:";
-    cin.getline(string , 4 ) >> a;
-
-    cout<<"This is what you said.... "<< a<<endl;
+    cout<<"How many integers do you want to be displayed? "<< a<<endl;
     int y;
     BST test;
 
