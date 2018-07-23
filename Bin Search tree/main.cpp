@@ -11,7 +11,7 @@ int main()
 {
     string a;
 
-    cout<<"How many integers do you want to be displayed? "<< a<<endl;
+    cout<<"How many integers would you like in this tree? "<< a<<endl;
     int y;
     BST test;
 

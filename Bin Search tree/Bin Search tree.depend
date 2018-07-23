@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1512085118 source:c:\users\barthode\documents\courses\computer science\1350\bin search tree\list.cpp
+1532284904 source:c:\users\barthode\documents\courses\computer science\1350\bin search tree\list.cpp
 	"list.h"
 	<iostream>
 	<fstream>
 
-1514358947 c:\users\barthode\documents\courses\computer science\1350\bin search tree\list.h
+1532284870 c:\users\barthode\documents\courses\computer science\1350\bin search tree\list.h
 
-1531840698 source:c:\users\barthode\documents\courses\computer science\1350\bin search tree\main.cpp
+1532284871 source:c:\users\barthode\documents\courses\computer science\1350\bin search tree\main.cpp
 	<iostream>
 	<fstream>
 	"list.h"
