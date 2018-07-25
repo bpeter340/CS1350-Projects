@@ -13,8 +13,8 @@ Implement a binary search tree which can be traversed using the three main trave
 
 Additional functionality I gave to this application was the ability of the user to choose the amount of leaves the tree contained.
 
-## Program 1
-###### Program 1 Objective
+## Day_Predictor
+###### Day_Predictor Objective
 Design a program, using classes, that is able to perform the following operations on the days of the week.
 
 - [x] Assign an index that prints the current day
@@ -49,8 +49,8 @@ Post-conditions:
 -	Set day can be manipulated to find any day of the week X amount of days in the future
 
 
-## Program 2
-###### Program 2 Objective
+## Basic_linkedList
+###### Basic_linkedList Objective
 
 Create a linked list that stores 100 integers which are read in from a text file.
 
