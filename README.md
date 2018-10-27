@@ -28,15 +28,16 @@ Design a program, using classes, that is able to perform the following operation
 Classes offer a more secure method to code programs because they the give user less access to sensitive information. Design a program that manipulates the days of the week so that the user can assign and print the day, return the previous, current, and next day, be able to predict the future, all while using appropriate classes, files, and constructors. 
   
 ###### UML
-        + string getDay(int x);
-        + string nextDay(int y);
-        + string prevDay(int z);
-        + void predictDay(int r, int p);
-        + void menu();
-        + dayType(string a, string b, string c, string d, string e, string f, string g);
-        + ~dayType();
-        - string week[7];
-        - string val;
++	string getDay(int option);
++	string nextDay(int next);
++	string prevDay(int prev);
++	void predictDay(int current_day, int prediction);
++	void menu();
++	dayType(string day_1, string day_2, string day_3, string day_4, string day_5, string day_6, string day_7);
++	~dayType();
+-	string week[7];
+-	string xday;
+
         
 Pre-conditions:
 -	Using the class data type
