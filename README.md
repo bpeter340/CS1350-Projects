@@ -13,6 +13,9 @@ Implement a binary search tree which can be traversed using the three main trave
 
 Additional functionality I gave to this application was the ability of the user to choose the amount of leaves the tree contained.
 
+## Design Document
+Binary search trees are advanced data structures that can improve a search efficiency. There are several ways of traversing a binary search tree and by name, they are as follows: Preorder Traversal, Inorder Traversal, and Postorder traversal. Create a binary search tree that reads in values from a text file and allow it to be traversed using any of the three traveral methods.
+
 ## Day_Predictor
 ###### Day_Predictor Objective
 Design a program, using classes, that is able to perform the following operations on the days of the week.
