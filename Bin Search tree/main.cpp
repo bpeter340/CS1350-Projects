@@ -9,22 +9,21 @@ using namespace std;
 
 int main()
 {
-    string a;
 
-    cout<<"How many integers would you like in this tree? "<< a<<endl;
-    int y;
+    cout<<"How many integers would you like in this tree? "<<endl;
+    int input;
     BST test;
 
     do{
     cout<<"input: ";
-    cin >> y;
+    cin >> input;
     }
-    while(y < 0 || y > 20429);
+    while(input < 0 || input > 20429);
 
     cout<<endl<<"This is the original list"<<endl;
-    test.original(y);
+    test.original(input);
 
-    test.input(y);
+    test.input(input);
 
     cout<<endl<<endl<<endl<<"Inorder sequence"<<endl;
     test.printInOrder();
