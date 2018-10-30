@@ -1,5 +1,5 @@
 # CS1350-Projects
-**This repository is currently under construction until further notice but currently contains _only a few of the projects I've completed_ in CS1350 at Indiana Tech.**
+**This repository currently contains the projects I've completed in CS1350 at Indiana Tech. Key topics derived f rom this course included object orientation using C++, Pointers, and data structures.**
 
 ## Bin Search Tree
 
